@@ -1,8 +1,8 @@
 
 import './App.css';
 import { Routes, Route} from "react-router-dom";
-import Landing from './componets/Landing.jsx';
-import Navbar from './componets/Navbar.jsx';
+import Landing from './components/Landing.jsx';
+import Navbar from './components/Navbar.jsx';
 function App() {
   return (
     <>
